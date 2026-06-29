@@ -4,13 +4,7 @@ A modern and responsive **Password Generator** built with **React + Vite**. It a
 
 ## 📸 Preview
 
-<<<<<<< HEAD
-> Password Generator UI
-
-![Password Generator Preview](![home page](<C:\Users\DELL\Desktop\New folder\React\password-generator\public\Screenshot 2026-06-29 143459.png>))
-=======
-![Password Generator](/screenshot.png)
->>>>>>> 8d997f387903cece02e14e3d6caee26c0fd22db0
+<img width="1594" height="796" alt="currency converter" src="password-generator\public\screenshot.png" />
 
 
 ---
