@@ -4,7 +4,7 @@ A modern and responsive **Password Generator** built with **React + Vite**. It a
 
 ## 📸 Preview
 
-<img width="1594" height="796" alt="currency converter" src="password-generator\public\screenshot.png" />
+![Password Generator Screenshot](./public/screenshot.png)
 
 
 ---
