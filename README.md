@@ -6,7 +6,7 @@ A modern and responsive **Password Generator** built with **React + Vite**. It a
 
 > Password Generator UI
 
-![Password Generator Preview](![alt text](<Screenshot 2026-06-29 143459.png>))
+(<Screenshot 2026-06-29 143459.png>)
 
 
 ---
